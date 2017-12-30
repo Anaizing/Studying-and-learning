@@ -120,7 +120,16 @@ https://www.youtube.com/watch?v=PHO6TBq_auI&t=20s
 
 ### CSS Grid
 Youtube toutorials with Rachel Andrew
+
 https://www.youtube.com/watch?v=Dz9BzY21Zks&list=PLQkVA6z3dFvbnBJetfYDAF3-cG_ubgdZR
+
+My Layout COPYCAT SERIES
+
+https://github.com/Anaizing/COPYCAT-series-CSS-Grid
+
+Youtube toutorials the net ninja
+
+https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY
 
 ### Interview questions
 Medium article
