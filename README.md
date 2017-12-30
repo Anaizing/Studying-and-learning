@@ -27,4 +27,19 @@ Podcast
 http://styleguides.io/podcast/
 Atom Design book by Brad Frost
 http://atomicdesign.bradfrost.com/table-of-contents/
+### Data Structures
+Medium article
+https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b
 
+Udemy Course-Learning Data Structures in JavaScript from Scratch
+https://www.udemy.com/learning-data-structures-in-javascript-from-scratch/learn/v4/overview
+
+Udemy course-Learning Algorithms in JavaScript from Scratch
+https://www.udemy.com/learning-algorithms-in-javascript-from-scratch/learn/v4/content
+
+Book-Data Structures & Algorithms with Javascript
+https://www.amazon.com/Data-Structures-Algorithms-JavaScript-approaches/dp/1449364934
+
+### Webpack
+intro medium article
+https://medium.freecodecamp.org/introducing-webpack-academy-bad0a4e23deb
