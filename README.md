@@ -72,6 +72,10 @@ Live coding, before the dev tools upgrade
 
 https://www.youtube.com/watch?v=3Tr-scf7trE
 
+JS Conf Alexander Pope: ServiceWorkers Outbreak
+
+https://www.youtube.com/watch?v=CPP9ew4Co0M&feature=youtu.be
+
 
 ### Data Structures
 Medium article
