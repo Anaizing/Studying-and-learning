@@ -1,8 +1,6 @@
 # Studying-and-learning
 A document with links to various dev topics Ive been learning about
-
-https://images.unsplash.com/photo-1468487422149-5edc5034604f?auto=format&fit=crop&w=1534&q=80
-
+[!Screenshot](studying.jpg)
 ### Using Cpanel
 Web hosting interface toutorial videos
 https://www.youtube.com/watch?v=CcjREZIwzv8&list=PL41lfR-6DnOqPsuqxjRchhBf2m78DOMbM
