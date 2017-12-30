@@ -17,6 +17,12 @@ Article
 
 http://searchsoftwarequality.techtarget.com/definition/HTTPS
 
+### Authentication
+
+Medium article
+
+https://hackernoon.com/how-do-you-authenticate-mate-f2b70904cc3a
+
 ### SEO
 in depth article... 
 
@@ -57,6 +63,10 @@ Medium article-6 myths of Progressive Web Apps
 
 https://medium.com/samsung-internet-dev/6-myths-of-progressive-web-apps-81e28ca9d2b1
 
+Learn how to build a PWA in 5 minutes
+
+https://medium.com/dev-channel/learn-how-to-build-a-pwa-in-under-5-minutes-c860ad406ed
+
 ### Service Workers
 Live coding, before the dev tools upgrade
 
@@ -79,6 +89,20 @@ https://www.udemy.com/learning-algorithms-in-javascript-from-scratch/learn/v4/co
 Book-Data Structures & Algorithms with Javascript
 
 https://www.amazon.com/Data-Structures-Algorithms-JavaScript-approaches/dp/1449364934
+
+Medium article-I built an app that makes learning algorithms and data structures way more fun
+
+https://medium.freecodecamp.org/i-built-an-app-that-makes-learning-algorithms-and-data-structures-way-more-fun-46fbb8afacaf
+
+The playground
+
+http://cs-playground-react.surge.sh/
+
+### Regular Expressions
+
+Youtube toutorials by Coding Train
+
+https://www.youtube.com/watch?v=7DG3kCDx53c&list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w
 
 ### Webpack
 intro medium article
@@ -105,9 +129,16 @@ Atom Design book by Brad Frost
 http://atomicdesign.bradfrost.com/table-of-contents/
 
 ### Logo Design
+
 Podcast
 
 https://logogeek.uk/podcast/
+
+### Placeholders
+
+How to use SVG as a Placeholder, and Other Image Loading Techniques
+
+https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c
 
 ### CSS Variables
 MND web docs
