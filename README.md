@@ -67,6 +67,10 @@ Learn how to build a PWA in 5 minutes
 
 https://medium.com/dev-channel/learn-how-to-build-a-pwa-in-under-5-minutes-c860ad406ed
 
+Chrome Dev Tools- Debug Progressive Web Apps
+
+https://developers.google.com/web/tools/chrome-devtools/progressive-web-apps
+
 ### Service Workers
 Live coding, before the dev tools upgrade
 
@@ -76,6 +80,9 @@ JS Conf Alexander Pope: ServiceWorkers Outbreak
 
 https://www.youtube.com/watch?v=CPP9ew4Co0M&feature=youtu.be
 
+Article-How to not break your site with Service Workers
+
+https://www.loxodrome.io/post/break-service-workers/
 
 ### Data Structures
 Medium article
@@ -170,3 +177,7 @@ https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyP
 Medium article
 
 https://medium.com/coderbyte/a-tricky-javascript-interview-question-asked-by-google-and-amazon-48d212890703
+
+podcast-codenewbie
+
+https://www.codenewbie.org/podcast/how-to-ace-a-technical-interview
