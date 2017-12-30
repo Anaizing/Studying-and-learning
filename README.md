@@ -53,7 +53,7 @@ Wikipedia
 
 https://en.wikipedia.org/wiki/Scalability
 
-## Accesability
+## Accessibility
 
 Chrome developers
 
