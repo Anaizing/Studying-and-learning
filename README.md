@@ -103,6 +103,10 @@ Chrome Dev Tools- Debug Progressive Web Apps
 
 https://developers.google.com/web/tools/chrome-devtools/progressive-web-apps
 
+TO DO-FrontEndMasters-Progressive Web Applications and Offline
+
+https://frontendmasters.com/courses/progressive-web-apps/
+
 ### Service Workers
 Live coding, before the dev tools upgrade
 
@@ -115,6 +119,31 @@ https://www.youtube.com/watch?v=CPP9ew4Co0M&feature=youtu.be
 Article-How to not break your site with Service Workers
 
 https://www.loxodrome.io/post/break-service-workers/
+
+### Javascript
+Udemy course javascript Essentials
+
+https://www.udemy.com/javascript-essentials/learn/v4/content
+
+Book-YDKJS
+
+https://github.com/getify/You-Dont-Know-JS
+
+Book- Eloquent Javascript
+
+https://eloquentjavascript.net/
+
+FrontEndMasters-Kyle Simpson Deep Foundations of JavaScript 
+
+https://frontendmasters.com/courses/javascript-foundations/learn/
+
+freeCodeCamp
+
+https://www.freecodecamp.org
+
+Codecademy
+
+https://www.codecademy.com/learn
 
 ### Data Structures
 Medium article
@@ -140,6 +169,33 @@ https://medium.freecodecamp.org/i-built-an-app-that-makes-learning-algorithms-an
 The playground
 
 http://cs-playground-react.surge.sh/
+
+
+### ES6
+
+Udemy Course-Essentials in JavaScript ES6 - A Fun and Clear Introduction
+
+https://www.udemy.com/essentials-in-javascript-es6/learn/v4/content
+
+Udemy course-The Full JavaScript & ES6 Tutorial - (including ES7 & React)
+
+https://www.udemy.com/es6-in-depth/learn/v4/content
+
+FrontEndMasters-Kyle Simpson ES6 The Right Parts 
+
+https://frontendmasters.com/courses/es6-right-parts/overview/
+
+
+### Functional programing
+FrontEndMasters- Kyle Simpson Functional-Light JavaScript, v2
+
+https://frontendmasters.com/courses/functional-javascript-v2/
+
+
+### Asynchronous Javascript
+FrontEndMasters-Kyle Simpson-Rethinking Asynchronous JavaScript
+
+https://frontendmasters.com/courses/rethinking-async-js/
 
 ### Regular Expressions
 
@@ -206,6 +262,10 @@ Youtube toutorials with Rachel Andrew
 
 https://www.youtube.com/watch?v=Dz9BzY21Zks&list=PLQkVA6z3dFvbnBJetfYDAF3-cG_ubgdZR
 
+Grid by Example
+
+https://gridbyexample.com/
+
 My Layout COPYCAT SERIES
 
 https://github.com/Anaizing/COPYCAT-series-CSS-Grid
@@ -217,6 +277,24 @@ https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyP
 Podcast-shoptalkshow
 
 http://shoptalkshow.com/episodes/262-css-grid-rachel-andrew-jen-simmons/
+
+### Web fonts
+
+Axis Praxis
+
+https://www.axis-praxis.org/specimens/decovar
+
+dot css conf-variable fonts
+
+https://www.dotconferences.com/2017/11/laurence-penney-variable-fonts
+
+medium article-open type variable fonts
+
+https://medium.com/@tiro/https-medium-com-tiro-introducing-opentype-variable-fonts-12ba6cd2369
+
+Google fonts
+
+https://fonts.google.com/
 
 ### Interview questions
 Shoptalk show episode on Hiring
