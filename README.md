@@ -53,10 +53,31 @@ Wikipedia
 
 https://en.wikipedia.org/wiki/Scalability
 
+## Accesability
+
+Chrome developers
+
+https://developers.google.com/web/fundamentals/accessibility/
+
+DotJS Conf-Marcy Sutton
+
+https://www.dotconferences.com/2017/12/marcy-sutton-enabling-users-in-client-rendered-applications
+
 ### TDD
 Test Driven Development article
 
 http://searchsoftwarequality.techtarget.com/definition/test-driven-development
+
+## Atom
+Level Up Toutorials
+
+https://www.leveluptutorials.com/tutorials/atom-editor-tutorials
+
+## Sublime text
+youtube toutorial
+
+https://www.youtube.com/watch?v=SVkR1ZkNusI&list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK
+
 
 ### Progressive Web Apps
 Medium article-6 myths of Progressive Web Apps
@@ -150,6 +171,15 @@ https://logogeek.uk/podcast/
 How to use SVG as a Placeholder, and Other Image Loading Techniques
 
 https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c
+
+## CSS Blend Modes, Filters, svg filters
+Youtube Kevin Powel
+
+https://www.youtube.com/watch?v=-c94pr41jaI
+
+Una Kravets Talk
+
+https://vimeo.com/183578252
 
 ### CSS Variables
 MND web docs
