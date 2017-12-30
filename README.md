@@ -17,6 +17,17 @@ Article
 
 http://searchsoftwarequality.techtarget.com/definition/HTTPS
 
+### MVC
+web article
+
+http://whatis.techtarget.com/definition/model-view-controller-MVC
+
+Medium article
+
+https://medium.freecodecamp.org/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053
+
+https://www.tutorialspoint.com/mvc_framework/mvc_framework_introduction.htm
+
 ### Authentication
 
 Medium article
@@ -53,7 +64,7 @@ Wikipedia
 
 https://en.wikipedia.org/wiki/Scalability
 
-## Accessibility
+### Accessibility
 
 Chrome developers
 
@@ -68,12 +79,12 @@ Test Driven Development article
 
 http://searchsoftwarequality.techtarget.com/definition/test-driven-development
 
-## Atom
+### Atom
 Level Up Toutorials
 
 https://www.leveluptutorials.com/tutorials/atom-editor-tutorials
 
-## Sublime text
+### Sublime text
 youtube toutorial
 
 https://www.youtube.com/watch?v=SVkR1ZkNusI&list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK
@@ -172,7 +183,7 @@ How to use SVG as a Placeholder, and Other Image Loading Techniques
 
 https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c
 
-## CSS Blend Modes, Filters, svg filters
+### CSS Blend Modes, Filters, svg filters
 Youtube Kevin Powel
 
 https://www.youtube.com/watch?v=-c94pr41jaI
@@ -203,7 +214,15 @@ Youtube toutorials the net ninja
 
 https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY
 
+Podcast-shoptalkshow
+
+http://shoptalkshow.com/episodes/262-css-grid-rachel-andrew-jen-simmons/
+
 ### Interview questions
+Shoptalk show episode on Hiring
+
+http://shoptalkshow.com/episodes/257-hiring-rebecca-murphey-lon-ingram/
+
 Medium article
 
 https://medium.com/coderbyte/a-tricky-javascript-interview-question-asked-by-google-and-amazon-48d212890703
