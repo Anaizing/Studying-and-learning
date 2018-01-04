@@ -186,6 +186,20 @@ FrontEndMasters-Kyle Simpson ES6 The Right Parts
 https://frontendmasters.com/courses/es6-right-parts/overview/
 
 
+## REACT
+
+Intro to JSX
+
+https://reactjs.org/docs/introducing-jsx.html
+
+Build a quick and easy blog app with React and Gatsby
+
+https://medium.freecodecamp.org/how-to-build-a-react-and-gatsby-powered-blog-in-about-10-minutes-625c35c06481
+
+OR a blog app with react/node/express
+
+https://code.tutsplus.com/series/creating-a-blogging-app-using-react--cms-1171
+
 ### Functional programing
 FrontEndMasters- Kyle Simpson Functional-Light JavaScript, v2
 
