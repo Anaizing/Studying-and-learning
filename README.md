@@ -121,6 +121,10 @@ Article-How to not break your site with Service Workers
 https://www.loxodrome.io/post/break-service-workers/
 
 ### Javascript
+What you MUST KNOW- Medium article
+
+https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1
+
 Udemy course javascript Essentials
 
 https://www.udemy.com/javascript-essentials/learn/v4/content
